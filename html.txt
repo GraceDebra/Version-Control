@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> What to know about me! </title>
+</head>
+<body>
+<h1> What to know about me! </h1> 
+<p> My name is Dyllan Macharia, a 2nd year student pursuing a degree in Computer Science in JKUAT. My hobboies are writing poems(although I pretty much suck at it nowadays),and watching Anime.
+I know you are wondering why I don't have that many hobbies, well the answer is quite simple, I pretty much suck. I do have some skills that I picked up over the years. I can speak German
+and I know a little bit of Russian. I guess thats it about me.
